@@ -1,7 +1,7 @@
 
-# Space Invaders - Pygame
+# Snake - Pygame
 
-This is a basic functioning version of the arcade game Space Invaders build using Pyton and Pygame.
+This is a basic functioning version of the arcade game Snake build using Pyton and Pygame.
 
 ## Installation
 
@@ -19,5 +19,5 @@ To run the game
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/joyetgeorge/Space-Invaders-Pygame/main/Screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/joyetgeorge/Snake-Pygame/main/snake.gif)
 
